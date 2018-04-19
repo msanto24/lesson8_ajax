@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 19th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Michael Santomaso
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Linking your program to a Movie database using an API.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://msanto24.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to sign up for an API to access certain databases.
+2. Learned how to link ID's from an index.html file and a js file. 
+3. Learned how to use JSON. 
